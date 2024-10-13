@@ -49,5 +49,22 @@ Include your Git repository (with history intact) in the final zip file.
 
 ## Prioritization
 Please provide a summary of your decision-making process while working on this assignment:
+- I focused on Successful API call with error handling(network error) and UI implementation.
+- Used MVVM as architecture
+- Completed UI screens of the app (List screen, Detail Screen, Error Screen) using Jetpack Compose
+- Used Jetpack Navigation 
+- Retry functionality
+- Fetched List of 20 items (with async image using coil)
+- Sorting (date wise and Title wise)
 
-[Your prioritization summary here]
+If given more time, I would be able to work on following things
+- Will Design dialog for sorting
+- Will implement the Hilt as Dependency Injection (which will also resolve lot other problems as well)
+- Will implement Favourite functionality using local database
+- Will implement Pagination 
+- Will try to cover test cases and code coverage
+
+  <img src="screens/implimented/ListScreen.png" alt="APOD List Screen" width="300"/>   
+  <img src="screens/implimented/DetailScreen.png" alt="Detail Screen" width="300"/>
+  <img src="screens/implimented/NetworkError.png" alt="Error Screen" width="300"/>    
+
