@@ -64,7 +64,12 @@ If given more time, I would be able to work on following things
 - Will implement Pagination 
 - Will try to cover test cases and code coverage
 
+Please find the screenshots of what I've completed.
+
   <img src="screens/implimented/ListScreen.png" alt="APOD List Screen" width="300"/>   
   <img src="screens/implimented/DetailScreen.png" alt="Detail Screen" width="300"/>
-  <img src="screens/implimented/NetworkError.png" alt="Error Screen" width="300"/>    
+  <img src="screens/implimented/NetworkError.png" alt="Error Screen" width="300"/>  
+
+Demo video:
+<video src="screens/implimented/demo.mp4" width="300/>
 
